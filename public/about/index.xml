@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on IPFS BLOG</title>
+    <link>http://linbynd.com/about/</link>
+    <description>Recent content in Abouts on IPFS BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 03:47:06 +0530</lastBuildDate><atom:link href="http://linbynd.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>http://linbynd.com/about/info/</link>
+      <pubDate>Sat, 08 May 2021 03:47:06 +0530</pubDate>
+      
+      <guid>http://linbynd.com/about/info/</guid>
+      <description>This needs a reason to make this happen</description>
+    </item>
+    
+  </channel>
+</rss>

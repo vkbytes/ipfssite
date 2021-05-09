@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on IPFS BLOG</title>
+    <link>http://linbynd.com/blog/</link>
+    <description>Recent content in Blogs on IPFS BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 03:44:01 +0530</lastBuildDate><atom:link href="http://linbynd.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secondpost</title>
+      <link>http://linbynd.com/blog/secondpost/</link>
+      <pubDate>Sat, 08 May 2021 03:44:01 +0530</pubDate>
+      
+      <guid>http://linbynd.com/blog/secondpost/</guid>
+      <description>This is Major Change Having to build what is required is a truly amazing feeling and one has the ability to read this content.</description>
+    </item>
+    
+    <item>
+      <title>Firstblog</title>
+      <link>http://linbynd.com/blog/firstblog/</link>
+      <pubDate>Sat, 08 May 2021 02:26:59 +0530</pubDate>
+      
+      <guid>http://linbynd.com/blog/firstblog/</guid>
+      <description>First Reason for the site. This going to be a nature of information that needes to go towards the rquried changes. We are going to see the future and the decread on things.</description>
+    </item>
+    
+  </channel>
+</rss>
