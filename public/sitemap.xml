@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://linbynd.com/blog/</loc>
+    <lastmod>2021-05-09T21:12:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linbynd.com/blog/information_about_ipfs/</loc>
+    <lastmod>2021-05-09T21:12:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linbynd.com/</loc>
+    <lastmod>2021-05-09T21:12:51+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://linbynd.com/about/</loc>
     <lastmod>2021-05-08T03:47:06+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://linbynd.com/about/info/</loc>
-    <lastmod>2021-05-08T03:47:06+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linbynd.com/</loc>
     <lastmod>2021-05-08T03:47:06+05:30</lastmod>
   </url>
   
