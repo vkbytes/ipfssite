@@ -1,3 +1,59 @@
-baseURL = "http://example.org/"
+baseURL = "http://linbynd.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "IPFS BLOG"
+theme = "mainroad"
+
+[Author] # Used in authorbox
+  name = "Vinit Khandagle"
+  bio = "Vinit's  true identity is unknown."
+
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About"
+    identifier = "bio"
+    weight = 200
+    url = "/about/"
+
+[Params]
+  opengraph = true
+  schema = true
+  twitter_card = true
+  readmore = true
+  authorbox = true
+  toc = true
+  pager = true
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+
+[Params.logo]
+  title = "IPFS Blog" # Logo title, otherwise will use site title
+  subtitle = "Decentralized stroage" # Logo subtitle
+
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = true # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "username"
+  twitter = "vini_tux"
+  instagram = "username"
+  linkedin = "vinitkhandagle"
+  gitlab = "linbynd"
+  email = "vinit.khandagle@gmail.com"
